@@ -21,6 +21,12 @@ $ cd workspace_tns/
 $ tns create HelloWorld --template tns-template-blank-ng
 $ cd HelloWorld/
 
+# Run on ios simulator
 $ tns run ios
+
+# Run on android simulator
 $ tns run android
+
+# Run on Cloud operation (NativeScript Playground & Preview)
+$ tns preview
 ```
